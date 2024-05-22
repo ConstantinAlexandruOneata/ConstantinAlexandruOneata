@@ -3,7 +3,7 @@
 <h2>👨‍💻 Networking Projects:</h2>
 
 - [Inter-Vlan Connectivity, EtherChannels & DHCP servers (internal & external)](https://github.com/ConstantinAlexandruOneata/NetworkingProjects/blob/main/Inter-Vlan%20Connectivity%2C%20EtherChannels%20%26%20DHCP%20servers%20(internal%20%26%20external).md)
-- [Connecting two Branch Offices with static routes & dynamic routing protocols (OSPFv2, OSPFv3, EIGRP, EIGRPv6, BGP) + NAT/PAT](https://github.com/AlexandruOneata/AlexandruOneata/blob/2f73f8bd0ccbbac18ab8d7976c5284439144f815/Connecting%20two%20Branch%20Offices%20with%20static%20routes%20%26%20dynamic%20routing%20protocols%20(OSPFv2%2C%20OSPFv3%2C%20EIGRP%2C%20EIGRPv6%2C%20BGP)%20%2B%20NAT%5CPAT.md)
+- [Connecting two Branch Offices with static routes & dynamic routing protocols (OSPFv2, OSPFv3, EIGRP, EIGRPv6, BGP) + NAT/PAT](https://github.com/ConstantinAlexandruOneata/NetworkingProjects/blob/main/Connecting%20two%20Branch%20Offices%20with%20static%20routes%20%26%20dynamic%20routing%20protocols%20(OSPFv2%2C%20OSPFv3%2C%20EIGRP%2C%20EIGRPv6%2C%20BGP)%20%2B%20NAT%5CPAT.md)
 
 
 <h2>📚 Certifications </h2>
