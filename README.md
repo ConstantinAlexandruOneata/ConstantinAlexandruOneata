@@ -1,5 +1,7 @@
 <h1>Hi, I'm Alex!</h1>
 
+<p> I'm an aspiring Network Engineer with 3 years of dedicated study and hands-on lab experience. Certified in CompTIA A+, Network+, and CCNA, with skills in configuring and troubleshooting network devices and security protocols. Strong background in sales and customer service, combined with a passion for networking, and currently pursuing CCNP Enterprise certification. </p>
+
 <h2>👨‍💻 Networking Projects:</h2>
 
 - [Inter-Vlan Connectivity, EtherChannels & DHCP servers (internal & external)](https://github.com/ConstantinAlexandruOneata/NetworkingProjects/blob/main/Inter-Vlan%20Connectivity%2C%20EtherChannels%20%26%20DHCP%20servers%20(internal%20%26%20external).md)
