@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex!</h1>
 
-<p> I'm an aspiring Network Engineer with 3 years of dedicated study and hands-on lab experience. Certified in CompTIA A+, Network+, and CCNA, with skills in configuring and troubleshooting network devices and security protocols. Strong background in sales and customer service, combined with a passion for networking, and currently pursuing CCNP Enterprise certification. </p>
+<p> Aspiring Network Engineer with a solid foundation in configuring and troubleshooting network devices, supported by CompTIA A+, Net+, and CCNA certifications. Recently transitioned to an AWS Server Repair Technician role, gaining hands-on experience in managing service tickets, server maintenance, and hardware decommissioning. Currently pursuing the CCNP Enterprise certification to further enhance my technical skills and knowledge. </p>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
