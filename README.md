@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex!</h1>
 
-<p> Aspiring Network Engineer with 3 years of dedicated study and hands-on lab experience. Certified in CompTIA A+, Network+, and CCNA, with skills in configuring and troubleshooting various networking devices and protocols. Strong background in sales and customer service, currently pursuing CCNP Enterprise certification. Currently pursuing the CCNP Enterprise certification to further enhance my technical skills and knowledge. </p>
+<p> Aspiring Network Engineer with 3 years of dedicated study and hands-on lab experience. Certified in CompTIA A+, Network+, and CCNA, with skills in configuring and troubleshooting various networking devices and protocols. Strong background in sales and customer service, currently pursuing the CCNP Enterprise certification to further enhance my technical skills and knowledge. </p>
 
 <h2>👨‍💻 Networking Projects:</h2>
 
